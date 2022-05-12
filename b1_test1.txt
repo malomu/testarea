@@ -1,2 +1,0 @@
-Erste Zeile von b1_test1.txt
-Zweite Zeile.
