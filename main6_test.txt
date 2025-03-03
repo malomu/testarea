@@ -1,1 +1,3 @@
 Inhalt von main6_test.txt
+Zeile-2 hinzugefügt
+Zeile-3 hinzugefügt
